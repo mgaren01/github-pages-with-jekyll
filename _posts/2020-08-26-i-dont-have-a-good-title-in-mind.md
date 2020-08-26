@@ -1,5 +1,5 @@
 ---
-title: An Entirely Useless Post
+title: "An Entirely Useless Post"
 date: 2020-08-26
 ---
 
