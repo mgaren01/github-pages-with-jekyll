@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to this (awful) blog!
 
 I'm glad you are here. I plan to talk about ...
+  * well, nothing actually.  the big secret is....this is actually a meta-blog...
+    * that has only to do with itself!
